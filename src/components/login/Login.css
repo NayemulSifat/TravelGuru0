@@ -1,0 +1,32 @@
+
+.existig-account{
+    text-align: center;
+    margin-top:20px;
+}
+.login-form{
+    align-items: center;
+    padding: 20px;
+    margin: 30px 20px 0 20px;
+    border: white;
+    border-radius: 5px;
+    background-color: #f9f8f6;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.loginBtn{
+    background-color: rgb(245 181 2);
+    width: 100%;
+    padding: 10px;
+}
+.login-with-existing-account{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius:10%;
+    margin:auto;
+    width: 50%;
+}
+.userCreateText{
+    color: #1a73e8;
+}
